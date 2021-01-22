@@ -1,1 +1,0 @@
-test(`Invalid KOATUU's`, () => {});
